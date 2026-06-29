@@ -1,0 +1,15 @@
+streamlit
+pdfplumber
+python-docx
+pandas
+plotly
+reportlab
+streamlit
+pdfplumber
+python-docx
+pandas
+plotly
+reportlab
+pytesseract
+pdf2image
+pillow
